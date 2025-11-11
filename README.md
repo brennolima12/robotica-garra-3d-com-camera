@@ -53,9 +53,7 @@ A proposta combina **mecânica e eletrônica**, aplicando os conceitos estudados
     * **Torque (T):** Essencial para superar a resistência da madeira. Um ponto de partida sugerido para o motor de corte é entregar entre **0.5 Nm a 2.0 Nm** no eixo da serra (considerando galhos de 10mm a 25mm).
     * **Potência (P):** A potência (energia) para manter a velocidade de corte é sugerida na faixa de **50W a 150W**.
 
-***
-
-### 2. 🛠️ Componentes 
+**Componentes** 
 
 **Mini Disco de Serra** | Diâmetro de **50mm a 85mm** com pontas de **Carboneto de Tungstênio (TCT)**. |
 **Motor DC de Alta Rotação** | Modelo **550** ou **775** (12V ou 24V), capaz de atingir **8.000 a 12.000 RPM** e potência próxima de **100W**. |

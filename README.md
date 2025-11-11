@@ -43,11 +43,12 @@ A proposta combina **mecânica e eletrônica**, aplicando os conceitos estudados
 
 ---
 
-**Ferramentas**
-⚙️ Definição da Solução de Corte
+| **Ferramenta**         | **Função no Projeto**                                                                 | **Integração com GitHub**                                                                 |
+|-------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| **CoppeliaSim**         | Simulação dos movimentos da garra, teste dos servos e verificação do corte virtual.      | Armazenar os **arquivos de simulação (.ttt)** no repositório para versionamento e reuso.  |
+| **Autodesk Fusion 360** | Modelagem 3D das peças, montagem da garra e exportação para impressão e simulação.       | Salvar os **arquivos .f3d / .stl** em pastas do repositório (`/modelagem`), com versões.   |
+| **Jira Software**       | Planejamento ágil das etapas: modelagem, eletrônica e simulação, com tarefas e prazos.   | Vincular **commits e pull requests** às issues do Jira para rastrear progresso automático. |
 
-**Serra Rotativa (Mini-Disco de Serra).**
-    * **Motivação:** Oferece cortes mais rápidos e limpos, além de gerar cargas de reação mais uniformes e controláveis, sendo mais adequada para estruturas impressas em 3D, que são sensíveis a cargas cíclicas de alto impacto (vibração).
 
 **Estimativa de Torque e Energia:**
     * **Torque (T):** Essencial para superar a resistência da madeira. Um ponto de partida sugerido para o motor de corte é entregar entre **0.5 Nm a 2.0 Nm** no eixo da serra (considerando galhos de 10mm a 25mm).

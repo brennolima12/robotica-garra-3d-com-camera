@@ -1,10 +1,10 @@
-# 🌿 **GARRA ROBÓTICA 3D COM CÂMERA PARA PODA DE ÁRVORES**
+# **GARRA ROBÓTICA 3D COM CÂMERA PARA PODA DE ÁRVORES**
 **Disciplina:** Elementos da Robótica  
 **Universidade de Pernambuco (UPE)**  
 
 ---
 
-## 👨‍🔧 **EQUIPE**
+## **EQUIPE**
 - Brenno Lima
 - Eduardo Távora
 - Gabriel Agra
@@ -14,20 +14,20 @@
 
 ---
 
-## 🧠 **DESCRIÇÃO DO PROJETO**
+## **DESCRIÇÃO DO PROJETO**
 Este projeto consiste em uma **garra robótica impressa em 3D**, equipada com **câmera integrada** e controle eletrônico para **realizar podas precisas em galhos de árvores**.  
 A proposta combina **mecânica e eletrônica**, aplicando os conceitos estudados na disciplina de Elementos da Robótica.
 
 ---
 
-## ⚙️ **OBJETIVOS**
+## **OBJETIVOS**
 - Desenvolver um **mecanismo de garra funcional** capaz de segurar e cortar galhos finos.  
 - Integrar **sensoriamento visual** para identificação da posição do galho.  
 - Controlar o sistema por meio de **microcontrolador (ESP32)**.  
 
 ---
 
-## 🧩 **PRINCIPAIS COMPONENTES UTILIZADOS** 
+## **PRINCIPAIS COMPONENTES UTILIZADOS** 
 - SeeedStudio XIAO ESP32-S3 Sense
 - MG995 Servo Motor 
 - MT3608 DC-DC Step-Up Module
@@ -36,7 +36,7 @@ A proposta combina **mecânica e eletrônica**, aplicando os conceitos estudados
 
 ---
 
-## 💡 **FUNCIONALIDADES**
+## **FUNCIONALIDADES**
 - Captura de imagem para auxílio na poda  
 - Movimento de abertura e fechamento da garra  
 - Corte automatizado de pequenos galhos  
@@ -49,10 +49,6 @@ A proposta combina **mecânica e eletrônica**, aplicando os conceitos estudados
 | **Autodesk Fusion 360** | Modelagem 3D das peças, montagem da garra e exportação para impressão e simulação.       | Salvar os **arquivos .f3d / .stl** em pastas do repositório (`/modelagem`), com versões.   |
 | **Jira Software**       | Planejamento ágil das etapas: modelagem, eletrônica e simulação, com tarefas e prazos.   | Vincular **commits e pull requests** às issues do Jira para rastrear progresso automático. |
 
-
-**Estimativa de Torque e Energia:**
-    * **Torque (T):** Essencial para superar a resistência da madeira. Um ponto de partida sugerido para o motor de corte é entregar entre **0.5 Nm a 2.0 Nm** no eixo da serra (considerando galhos de 10mm a 25mm).
-    * **Potência (P):** A potência (energia) para manter a velocidade de corte é sugerida na faixa de **50W a 150W**.
 
 **Componentes** 
 

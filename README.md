@@ -27,11 +27,27 @@ A proposta combina **mecânica e eletrônica**, aplicando os conceitos estudados
 ---
 
 ## **PRINCIPAIS COMPONENTES UTILIZADOS** 
-- 
-- 
-- 
-- 
-- 
+Estrutura Eletrônica
+- SeeedStudio XIAO ESP32-S3 Sense
+- MG995 Servo Motor (180°)
+- Servo adapter (impresso em 3D)
+- MT3608 DC-DC Step-Up Module
+- Suporte para 1 bateria 18650 (1s)
+- Bateria 18650 recarregável
+- Chave liga/desliga
+- Fios de conexão 
+- Resistores de 15 Ω
+- LEDs brancos de 5 mm
+Estrutura Mecânica
+- Peças impressas em 3D baseadas no modelo Cam Claw (podendo ser impressas novamente ou reaproveitadas de outros projetos)
+- Parafusos M3 x 20 mm
+- Parafusos M3 x 4 mm
+- Parafusos M4 x 20 mm
+- Parafusos 1/4 x 20 mm
+- Tubo de PVC 25 mm
+- Cola multiuso / supercola
+- Suporte para celular 
+
 
 ---
 

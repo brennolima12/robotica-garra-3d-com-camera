@@ -38,6 +38,7 @@ Estrutura Eletrônica
 - Fios de conexão 
 - Resistores de 15 Ω
 - LEDs brancos de 5 mm
+  
 Estrutura Mecânica
 - Peças impressas em 3D baseadas no modelo Cam Claw (podendo ser impressas novamente ou reaproveitadas de outros projetos)
 - Parafusos M3 x 20 mm

@@ -26,7 +26,31 @@ A proposta combina **mecânica e eletrônica**, aplicando os conceitos estudados
 
 ---
 
-## **PRINCIPAIS COMPONENTES UTILIZADOS** 
+## **COMPONENTES PRINCIPAIS** 
+
+1. Simulação - CoppeliaSim
+2. Simulação - Fusion 3D
+
+https://github.com/user-attachments/assets/e14eaf50-cc1c-4a6d-a35d-46e369c8cb1d
+
+
+https://github.com/user-attachments/assets/853c69ad-b97c-4bf9-adfa-8407e8c1bdd0
+
+
+3. Simulação TinkerCard 
+
+
+https://github.com/user-attachments/assets/cc6e9fef-9edf-44bb-b86a-1e4e483e3a38
+
+
+4. Garra - Impressão 3D
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/c47957f3-f47a-427b-bb88-b87302df0d94" />
+
+
+5. Serra e Câmera
+
+
+
 Estrutura Eletrônica
 - SeeedStudio XIAO ESP32-S3 Sense
 - MG995 Servo Motor (180°)
@@ -38,19 +62,7 @@ Estrutura Eletrônica
 - Fios de conexão 
 - Resistores de 15 Ω
 - LEDs brancos de 5 mm
-  
-Estrutura Mecânica
-- Peças impressas em 3D baseadas no modelo Cam Claw (podendo ser impressas novamente ou reaproveitadas de outros projetos)
-- Parafusos M3 x 20 mm
-- Parafusos M3 x 4 mm
-- Parafusos M4 x 20 mm
-- Parafusos 1/4 x 20 mm
-- Tubo de PVC 25 mm
-- Cola multiuso / supercola
-- Suporte para celular 
-
-
----
+  ---
 
 ## **FUNCIONALIDADES**
 - Captura de imagem para auxílio na poda  

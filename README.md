@@ -29,7 +29,13 @@ A proposta combina **mecânica e eletrônica**, aplicando os conceitos estudados
 ## **COMPONENTES PRINCIPAIS** 
 
 1. Simulação - CoppeliaSim
-2. Simulação - Fusion 3D
+
+
+https://github.com/user-attachments/assets/b70cecc2-8d85-4323-acba-ff4b780f9af3
+
+
+
+2. Modelagem - Fusion 3D
 
 https://github.com/user-attachments/assets/e14eaf50-cc1c-4a6d-a35d-46e369c8cb1d
 
@@ -37,7 +43,7 @@ https://github.com/user-attachments/assets/e14eaf50-cc1c-4a6d-a35d-46e369c8cb1d
 https://github.com/user-attachments/assets/853c69ad-b97c-4bf9-adfa-8407e8c1bdd0
 
 
-3. Simulação TinkerCard 
+3. Simulação TinkerCad 
 
 
 https://github.com/user-attachments/assets/cc6e9fef-9edf-44bb-b86a-1e4e483e3a38
@@ -74,7 +80,7 @@ Estrutura Eletrônica
 | **CoppeliaSim**         | Simulação dos movimentos da garra, teste dos servos e verificação do corte virtual.      | Armazenar os **arquivos de simulação (.ttt)** no repositório para versionamento e reuso.  |
 | **Autodesk Fusion 360** | Modelagem 3D das peças, montagem da garra e exportação para impressão e simulação.       | Salvar os **arquivos .f3d / .stl** em pastas do repositório (`/modelagem`), com versões.   |
 | **Jira Software**       | Planejamento ágil das etapas: modelagem, eletrônica e simulação, com tarefas e prazos.   | Vincular **commits e pull requests** às issues do Jira para rastrear progresso automático. |
-
+| **TinkerCad**           | Prototipagem rápida e simulação de circuitos eletrônicos (Arduino, sensores, servos).   | Salvar os arquivos de circuito (.json) ou código do Arduino (.ino) no repositório. |
 
 ---
 Projeto desenvolvido durante o semestre **2025.2**, na disciplina **Elementos da Robótica** — **Universidade de Pernambuco (UPE)**.

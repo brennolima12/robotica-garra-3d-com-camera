@@ -52,16 +52,14 @@ https://github.com/user-attachments/assets/cc6e9fef-9edf-44bb-b86a-1e4e483e3a38
 
 
 Estrutura Eletrônica
-- SeeedStudio XIAO ESP32-S3 Sense
+- Arduino Uno
+- Esp32s3 Sense
 - MG995 Servo Motor (180°)
-- Servo adapter (impresso em 3D)
-- MT3608 DC-DC Step-Up Module
-- Suporte para 1 bateria 18650 (1s)
-- Bateria 18650 recarregável
+- Motor DC
 - Chave liga/desliga
 - Fios de conexão 
-- Resistores de 15 Ω
-- LEDs brancos de 5 mm
+- Resistores
+
   ---
 
 ## **FUNCIONALIDADES**

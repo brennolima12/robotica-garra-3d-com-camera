@@ -58,9 +58,6 @@ https://github.com/user-attachments/assets/cc6e9fef-9edf-44bb-b86a-1e4e483e3a38
 
 https://github.com/user-attachments/assets/846176d9-715c-43bb-99fa-d28dd454da26
 
-https://github.com/user-attachments/assets/e13de8a5-db8b-4d2d-b0ca-efba8364aaba
-
-
 
 Estrutura Eletrônica
 - Arduino Uno

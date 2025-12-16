@@ -59,15 +59,6 @@ https://github.com/user-attachments/assets/cc6e9fef-9edf-44bb-b86a-1e4e483e3a38
 https://github.com/user-attachments/assets/846176d9-715c-43bb-99fa-d28dd454da26
 
 
-Estrutura Eletrônica
-- Arduino Uno
-- Esp32s3 Sense
-- MG995 Servo Motor (180°)
-- Motor DC
-- Chave liga/desliga
-- Fios de conexão 
-- Resistores
-
   ---
 
 ## **FUNCIONALIDADES**
